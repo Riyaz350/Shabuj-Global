@@ -12,7 +12,6 @@ const Navbar = () => {
     const iconClass = 'flex items-center text-lg gap-2'
     const navClass = 'text-lg text-white    px-4 py-2 lg:py-5'
     const [isIndex, setIndex] = useState(null);
-    console.log(navData)
      
     return (
         <div className="bg-[#D9D9D9]">
