@@ -26,84 +26,84 @@
     },
     {
       "id": 2,
-      "title": "Data Set 2",
+      "title": "What we do?",
       "images": [
         {
             "url": "https://i.ibb.co/42Bk1nY/img2.png",
-            "title": "Study UX In SG"
+            "title": "Leave the country"
           },
         {
             "url": "https://i.ibb.co/wsdrKpn/img1.png",
-            "title": "Study UI in SG"
+            "title": "Get the best degree"
           },
           
           {
             "url": "https://i.ibb.co/Fwg217L/img3.png",
-            "title": "Study Nothing"
+            "title": "Help to get a job"
           }
       ],
       "links": [
-        "Link 1",
-        "Link 2",
-        "Link 3",
-        "Link 4",
-        "Link 5"
+        "Leave the country",
+        "Get the best degree",
+        "Help to get a job",
+        "Future Education",
+        "Learning Initiatives"
       ]
     },
     {
       "id": 3,
-      "title": "Data Set 3",
+      "title": "Destination",
       "images": [
         {
             "url": "https://i.ibb.co/wsdrKpn/img1.png",
-            "title": "Study UI in SG"
+            "title": "Get the best degree"
           },
           
           {
             "url": "https://i.ibb.co/Fwg217L/img3.png",
-            "title": "Study Nothing"
+            "title": "Get the best job"
           },
           {
             "url": "https://i.ibb.co/42Bk1nY/img2.png",
-            "title": "Study UX In SG"
+            "title": "Stay in other country"
           }
       ],
       "links": [
-        "Link 1",
-        "Link 2",
-        "Link 3",
-        "Link 4",
-        "Link 5"
+        "Get the best degree",
+        "Get the best job",
+        "Stay in other country",
+        "Other countries",
+        "Leave now"
       ]
     },
     {
       "id": 4,
-      "title": "Data Set 4",
+      "title": "Find a course",
       "images": [
         {
             "url": "https://i.ibb.co/wsdrKpn/img1.png",
-            "title": "Study UI in SG"
+            "title": "Foundations of Data Science"
           },
           {
             "url": "https://i.ibb.co/42Bk1nY/img2.png",
-            "title": "Study UX In SG"
+            "title": "Introduction to Web Development"
           },
           {
             "url": "https://i.ibb.co/Fwg217L/img3.png",
-            "title": "Study Nothing"
+            "title": "Advanced Mathematics for Engineers"
           }
       ],
       "links": [
-        "Link 1",
-        "Link 2",
-        "Link 3",
-        "Link 4",
-        "Link 5"
-      ]
+        "Foundations of Data Science",
+        "Introduction to Web Development",
+        "Advanced Mathematics for Engineers",
+        "Digital Marketing Strategies",
+        "Creative Writing Workshop"
+            ]
     },
     {
       "id": 5,
-      "title": "Data Set 5",
+      "title": "Student essential service",
       "images": [
         {
               "url": "https://i.ibb.co/42Bk1nY/img2.png",
@@ -128,7 +128,7 @@
     },
     {
       "id": 6,
-      "title": "Data Set 6",
+      "title": "IELTS",
       "images": [
         {
             "url": "https://i.ibb.co/wsdrKpn/img1.png",
