@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import articles from '../../../public/articles.json'
-const ReadMore = () => {
+const ReadMore = ({setBlogTitle}) => {
 
     const articlesPerPage = 4
     const length=articles?.length
@@ -34,12 +34,12 @@ const ReadMore = () => {
         }
 
     return (
-        <div className='max-w-7xl mx-auto p-5 lg:p-0'>
+        <div className=' p-5 lg:p-0'>
             <h1 className='font-bold text text-3xl my-10 '>Read Next</h1>
-            <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 justify-between font-bold   gap-4'>
+            <div className='grid grid-cols-2 md:grid-cols-3  lg:grid-cols-4 justify-between font-bold   gap-4'>
                 {
                     filtered.map((article, index)=>
-                    <div className='flex flex-col justify-between' key={index}>
+                    <div onClick={()=>setBlogTitle(article?.title)} className='flex flex-col cursor-pointer justify-between' key={index}>
                         <img className='w-full h-40 my-2 rounded-2xl' src={article?.imgUrl} alt="" />
                         <h1 className='text-lg'>{article?.title}</h1>
                         <p className='text-xs hidden lg:block lg:text-base font-normal pr-2 my-4'>{article.content[0].slice(0, 200)}...</p>
@@ -48,7 +48,7 @@ const ReadMore = () => {
                     )
                 }
             </div>
-            <div className='flex justify-between max-w-xs mx-auto'>
+            <div className='flex justify-between max-w-xs mx-auto my-10 lg:my-20'>
                 <button className="  text-black   h-fit p-1 lg:p-2 btnLandLord border-2 border-white flex gap-5" onClick={handlePrev}><span>{'<'}</span>Previous</button>
                 <div className='space-x-5 h-fit lg:h-full'>
                 {

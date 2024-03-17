@@ -4,6 +4,7 @@
         "subTitle": "Exploring sustainable energy solutions for a greener tomorrow.",
         "category": "Technology",
         "writer": "John Smith",
+        "writerImg":"https://i.ibb.co/nn3vVhX/wepik-export-20231007081709-REix.png",
         "date": "March 12, 2023",
         "imgUrl": "https://i.ibb.co/gWcd52T/thomas-richter-B09t-L5b-SQJk-unsplash.jpg",
         "content": [
@@ -17,6 +18,7 @@
         "subTitle": "Discover simple tips for maintaining a balanced diet and healthy lifestyle.",
         "category": "Health",
         "writer": "Emily Johnson",
+        "writerImg":"https://i.ibb.co/1mYrm2R/wepik-export-20231007082209-QOD8.png",
         "date": "April 5, 2023",
         "imgUrl": "https://i.ibb.co/FHcp2Bh/lily-banse-YHSwy6uqvk-unsplash.jpg",
         "content": [
@@ -30,6 +32,7 @@
         "subTitle": "Unraveling the mysteries and potential applications of AI technology.",
         "category": "Science",
         "writer": "David Brown",
+        "writerImg":"https://i.ibb.co/ynS244m/wepik-export-20231007082005w1z0.png",
         "date": "May 20, 2023",
         "imgUrl": "https://i.ibb.co/rQ7Lqf6/image.png",
         "content": [
@@ -43,6 +46,7 @@
         "subTitle": "Mastering the practice of mindfulness for improved well-being and focus.",
         "category": "Lifestyle",
         "writer": "Sophia Lee",
+        "writerImg":"https://i.ibb.co/GFxVjDJ/wepik-export-20231007082450-QXcf.png",
         "date": "June 10, 2023",
         "imgUrl": "https://i.ibb.co/827NMxg/Food.png",
         "content": [
@@ -57,6 +61,7 @@
         "category": "Fashion",
         "writer": "Olivia Green",
         "date": "July 15, 2023",
+        "writerImg":"https://i.ibb.co/tpLP6z2/wepik-export-20231007082543-WBI7.png",
         "imgUrl": "https://i.ibb.co/BT67FMS/image.png",
         "content": [
           "Suspendisse euismod massa eget purus consequat consequat. Nullam sit amet justo vehicula, sollicitudin mi ac, varius orci. Integer eget fermentum orci. Mauris rhoncus, lorem et consequat bibendum, eros eros feugiat nisi, non ullamcorper nulla nisl id neque. Curabitur at consequat velit. Nullam vehicula sem id magna dictum scelerisque.",
@@ -69,6 +74,7 @@
         "subTitle": "Exploring AI advancements and their impact on society.",
         "category": "Technology",
         "writer": "John Doe",
+        "writerImg":"https://i.ibb.co/nn3vVhX/wepik-export-20231007081709-REix.png",
         "date": "March 12, 2023",
         "imgUrl": "https://i.ibb.co/L8Vsfdh/image.png",
         "content": [
@@ -83,6 +89,7 @@
         "category": "Health & Wellness",
         "writer": "Jane Smith",
         "date": "April 5, 2023",
+        "writerImg":"https://i.ibb.co/nn3vVhX/wepik-export-20231007081709-REix.png",
         "imgUrl": "https://i.ibb.co/rfBnVKN/anastase-maragos-FP7cf-YPPUKM-unsplash.jpg",
         "content": [
           "Nam consequat est ut nunc blandit suscipit. Nullam at lacus id mauris congue convallis. Vivamus consectetur tellus sit amet felis congue, nec efficitur nunc vestibulum. Nullam eleifend nisl nec nunc suscipit, sed facilisis sapien gravida. Integer auctor metus nec ante luctus, ac commodo lorem dictum. Nullam nec metus vitae felis convallis.",
@@ -95,6 +102,7 @@
         "subTitle": "Appreciating the beauty and diversity of our natural world.",
         "category": "Environment",
         "writer": "Emily Johnson",
+        "writerImg":"https://i.ibb.co/nnpmQqQ/wepik-export-20231007082343bbh-O.png",
         "date": "May 20, 2023",
         "imgUrl": "https://i.ibb.co/Fwg217L/img3.png",
         "content": [
