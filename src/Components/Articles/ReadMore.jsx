@@ -1,5 +1,7 @@
 import { useEffect, useState } from 'react';
 import articles from '../../../public/articles.json'
+import { Link } from 'react-scroll';
+
 const ReadMore = ({setBlogTitle}) => {
 
     const articlesPerPage = 4
@@ -39,12 +41,12 @@ const ReadMore = ({setBlogTitle}) => {
             <div className='grid grid-cols-2 md:grid-cols-3  lg:grid-cols-4 justify-between font-bold   gap-4'>
                 {
                     filtered.map((article, index)=>
-                    <div onClick={()=>setBlogTitle(article?.title)} className='flex flex-col cursor-pointer justify-between' key={index}>
+                    <Link to="blog" spy={true} smooth={true} duration={250} onClick={()=>setBlogTitle(article?.title)} className='flex flex-col cursor-pointer justify-between' key={index}>
                         <img className='w-full h-40 my-2 rounded-2xl' src={article?.imgUrl} alt="" />
                         <h1 className='text-lg'>{article?.title}</h1>
                         <p className='text-xs hidden lg:block lg:text-base font-normal pr-2 my-4'>{article.content[0].slice(0, 200)}...</p>
                         <p className='text-base font-normal pr-2 my-4'>By {article.writer}</p>
-                    </div>
+                    </Link>
                     )
                 }
             </div>
