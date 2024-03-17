@@ -1,0 +1,106 @@
+[
+    {
+        "title": "The Future of Renewable Energy",
+        "subTitle": "Exploring sustainable energy solutions for a greener tomorrow.",
+        "category": "Technology",
+        "writer": "John Smith",
+        "date": "March 12, 2023",
+        "imgUrl": "https://i.ibb.co/gWcd52T/thomas-richter-B09t-L5b-SQJk-unsplash.jpg",
+        "content": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque fermentum nisi ac justo varius, non feugiat elit sollicitudin. Nam a massa velit. Sed id est ligula. Nunc bibendum, urna ut eleifend ultrices, nisl elit accumsan magna, ac feugiat turpis lorem sit amet odio. Suspendisse potenti. Nulla facilisi. Duis non est nec magna consequat finibus. Cras auctor metus odio, et rhoncus quam suscipit vel. Nulla facilisi.",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor."
+        ]
+      },
+      {
+        "title": "Healthy Eating Habits",
+        "subTitle": "Discover simple tips for maintaining a balanced diet and healthy lifestyle.",
+        "category": "Health",
+        "writer": "Emily Johnson",
+        "date": "April 5, 2023",
+        "imgUrl": "https://i.ibb.co/FHcp2Bh/lily-banse-YHSwy6uqvk-unsplash.jpg",
+        "content": [
+          "Sed convallis, libero nec rhoncus volutpat, est erat dignissim mauris, eget congue lorem quam vitae enim. Proin fermentum mauris vitae justo sodales, non bibendum quam scelerisque. Nullam ac aliquet velit. Nulla facilisi. Ut laoreet massa vel semper lobortis. Curabitur aliquam libero a dui faucibus luctus. Donec vitae justo a nunc lobortis feugiat.",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor."
+        ]
+      },
+      {
+        "title": "Exploring the World of Artificial Intelligence",
+        "subTitle": "Unraveling the mysteries and potential applications of AI technology.",
+        "category": "Science",
+        "writer": "David Brown",
+        "date": "May 20, 2023",
+        "imgUrl": "https://i.ibb.co/rQ7Lqf6/image.png",
+        "content": [
+          "Vivamus non magna ut ligula dictum malesuada. Suspendisse in ligula odio. Nam vitae justo quis est mollis aliquet. In fringilla nibh ac turpis gravida condimentum. Curabitur varius magna sit amet velit fermentum, non congue magna dictum. Donec tristique elit sed justo sollicitudin, nec mattis nulla tincidunt. Phasellus rhoncus urna non vehicula efficitur.",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor."
+        ]
+      },
+      {
+        "title": "The Art of Mindfulness",
+        "subTitle": "Mastering the practice of mindfulness for improved well-being and focus.",
+        "category": "Lifestyle",
+        "writer": "Sophia Lee",
+        "date": "June 10, 2023",
+        "imgUrl": "https://i.ibb.co/827NMxg/Food.png",
+        "content": [
+          "Integer malesuada lectus arcu, in viverra libero tempor vel. Fusce pretium magna sit amet quam scelerisque efficitur. Phasellus volutpat vitae ipsum nec lobortis. Mauris consectetur quam velit, vel mattis elit sagittis a. Cras in velit vel odio convallis viverra. Ut vel molestie arcu, eu bibendum elit. Aenean pretium lacinia lacus, vel laoreet lacus faucibus in.",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor."
+        ]
+      },
+      {
+        "title": "Exploring Sustainable Fashion",
+        "subTitle": "Understanding the impact of fashion industry on environment and ethical alternatives.",
+        "category": "Fashion",
+        "writer": "Olivia Green",
+        "date": "July 15, 2023",
+        "imgUrl": "https://i.ibb.co/BT67FMS/image.png",
+        "content": [
+          "Suspendisse euismod massa eget purus consequat consequat. Nullam sit amet justo vehicula, sollicitudin mi ac, varius orci. Integer eget fermentum orci. Mauris rhoncus, lorem et consequat bibendum, eros eros feugiat nisi, non ullamcorper nulla nisl id neque. Curabitur at consequat velit. Nullam vehicula sem id magna dictum scelerisque.",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor."
+        ]
+      },
+      {
+        "title": "The Future of Artificial Intelligence",
+        "subTitle": "Exploring AI advancements and their impact on society.",
+        "category": "Technology",
+        "writer": "John Doe",
+        "date": "March 12, 2023",
+        "imgUrl": "https://i.ibb.co/L8Vsfdh/image.png",
+        "content": [
+          "Morbi vel hendrerit arcu. Nullam ac tellus in sapien consectetur placerat. Morbi convallis magna id turpis ullamcorper, sed eleifend sem congue. Nam ac enim eget mi auctor convallis. Duis mollis turpis id leo eleifend, nec ultrices libero consequat. Proin sed consequat orci. Maecenas vel convallis orci, nec viverra dui.",
+          "Pellentesque habitant morbi tristique senectus et netus...",
+          "Integer nec odio. Praesent libero. Sed cursus ante dapibus diam..."
+        ]
+      },
+      {
+        "title": "The Power of Exercise",
+        "subTitle": "Discovering inner peace through the practice of meditation.",
+        "category": "Health & Wellness",
+        "writer": "Jane Smith",
+        "date": "April 5, 2023",
+        "imgUrl": "https://i.ibb.co/rfBnVKN/anastase-maragos-FP7cf-YPPUKM-unsplash.jpg",
+        "content": [
+          "Nam consequat est ut nunc blandit suscipit. Nullam at lacus id mauris congue convallis. Vivamus consectetur tellus sit amet felis congue, nec efficitur nunc vestibulum. Nullam eleifend nisl nec nunc suscipit, sed facilisis sapien gravida. Integer auctor metus nec ante luctus, ac commodo lorem dictum. Nullam nec metus vitae felis convallis.",
+          "Pellentesque habitant morbi tristique senectus et netus...",
+          "Integer nec odio. Praesent libero. Sed cursus ante dapibus diam..."
+        ]
+      },
+      {
+        "title": "Exploring the Wonders of Nature",
+        "subTitle": "Appreciating the beauty and diversity of our natural world.",
+        "category": "Environment",
+        "writer": "Emily Johnson",
+        "date": "May 20, 2023",
+        "imgUrl": "https://i.ibb.co/Fwg217L/img3.png",
+        "content": [
+          "Phasellus eget sodales lorem. Integer finibus tincidunt risus, vel ultricies eros convallis eget. Donec ac purus at nisi lobortis gravida. Nullam in nulla a purus viverra consequat. Cras varius, lectus vel tempus viverra, ligula magna interdum quam, nec accumsan metus eros quis ex. Vivamus fermentum luctus tellus id pharetra.",
+          "Pellentesque habitant morbi tristique senectus et netus...",
+          "Integer nec odio. Praesent libero. Sed cursus ante dapibus diam..."
+        ]
+      }
+]

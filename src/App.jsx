@@ -1,12 +1,14 @@
 
 import './App.css'
-import Navbar from './Components/Shared/Navbar'
+import Article from './Components/Articles/Article'
+import Navbar from './Components/Navbar/Navbar'
 
 function App() {
 
   return (
     <>
       <Navbar/>
+      <Article/>
     </>
   )
 }

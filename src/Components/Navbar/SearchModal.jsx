@@ -27,7 +27,7 @@ const SearchModal = () => {
                     <form className="p-5" method="dialog">
                     <button className="btn border-2 border-white text-white   btn-sm btn-circle btn-ghost absolute right-2 top-2">✕</button>
                     </form>
-                    <div className="bg-white   rounded-2xl relative">
+                    <div className="bg-white rounded-lg  lg:rounded-2xl relative">
 
                         {/* tabs navs */}
                         <div className="grid grid-cols-2 lg:grid-cols-4 gap-2 lg:gap-0 m-1 lg:m-0 p-1 lg:p-0 rounded-t-2xl overflow-hidden justify-between ">

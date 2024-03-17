@@ -26,6 +26,7 @@ const Navbar = () => {
             
             
 
+            <div onMouseLeave={() => setIndex(null)}>
             <div className=' bg-black flex  justify-center items-center flex-wrap  lg:flex-row  '>
                 {
                     navData.map(data=>
@@ -37,8 +38,8 @@ const Navbar = () => {
              
 
             {navData.map(data =>
-                <div  onMouseLeave={() => setIndex(null)} key={data.id} className='flex justify-center'>
-                <div   className={`bg-white lg:w-2/3 ${isIndex == data.id? 'absolute':'hidden'}`}>
+                <div   key={data.id} className='flex justify-center'>
+                <div   className={`rounded-2xl bg-white lg:w-2/3 ${isIndex == data.id? 'absolute':'hidden'}`}>
                 <div className='   m-5 lg:mx-auto rounded-2xl shadow-xl p-5 lg:p-20  '>
                     <div className='flex justify-between'>
                     <h1 className='font-bold text-2xl mb-5'>{data.title}</h1>
@@ -48,7 +49,7 @@ const Navbar = () => {
                         {
                             data?.images.map((imgs, index) =>
                                 <div className='' key={index}>
-                                    <div>
+                                    <div className='cursor-pointer'>
                                     <img className='w-full' src={imgs.url} alt="" />
                                     <h1 className='mt-5'>{imgs.title}</h1>
                                     </div>
@@ -66,10 +67,9 @@ const Navbar = () => {
                 </div>
                 </div>
             )}
+            </div>
 
-             <div>
-                <h1>hello</h1>
-             </div>
+             
         </div>
     );
 };
