@@ -44,16 +44,16 @@ const Links = () => {
             
         </div>
 
-        <div className='bg-black py-10 font-light'>
-            <div className='max-w-7xl mx-auto  flex justify-between items-center'>
+        <div className='bg-black py-10 font-light '>
+            <div className='max-w-7xl mx-auto grid gap-5 lg:gap-0 text-center md:grid-cols-2 lg:flex justify-between items-center'>
             <h1>Copyright © 2024 SG Education</h1>
-            <ul className='flex gap-2'>
+            <ul className='flex gap-2 pl-2'>
                 <li className='border-r-2 pr-2'>Disclaimer</li>
                 <li className='border-r-2 pr-2'>Privacy Policy</li>
                 <li className='border-r-2 pr-2'>Terms Of Use</li>
                 <li>Investors</li>
             </ul>
-            <ul className='flex gap-2'>
+            <ul className='flex gap-2 justify-center'>
                 <li><FaFacebookF /></li>
                 <li  ><FaInstagram /></li>
                 <li><FaLinkedinIn /></li>

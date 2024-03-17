@@ -9,7 +9,7 @@ const Blog = ({blogTitle}) => {
             <h1 className='text-3xl font-bold'>{selectedBlog?.title}</h1>
             <h1 className='text-xl font-bold'>{selectedBlog?.subTitle}</h1>
             <div className='flex items-center gap-4 text-lg text-[#414141]'>
-                <img className='w-[58px] mr-2 box-content h-[58px] rounded-full border-8 border-[#D9D9D9]' src={selectedBlog.writerImg} alt="" />
+                <img className='w-[48px] h-[48px] mr-2 box-content  rounded-full border-4 border-[#D9D9D9]' src={selectedBlog.writerImg} alt="" />
                 <h1>By <span className='font-bold'>{selectedBlog.writer}</span></h1>
                 <p>{selectedBlog.date}</p>
             </div>
