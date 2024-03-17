@@ -1,5 +1,6 @@
 import logo from '../../assets/logo.png'
 import { IoMdCloseCircleOutline } from "react-icons/io";
+import { motion } from "framer-motion"
 
 import navData from '../../../public/navData.json'
 import { CiLocationOn } from "react-icons/ci";
@@ -48,18 +49,18 @@ const Navbar = () => {
                     <div className='grid grid-cols-2 lg:grid-cols-4    justify-between gap-5'>
                         {
                             data?.images.map((imgs, index) =>
-                                <div className='' key={index}>
+                                <motion.div initial={{opacity:0.8, y:10}} whileInView={{opacity:1, y:0}} transition={{duration:0.5, delay:index*0.1}} className='' key={index}>
                                     <div className='cursor-pointer'>
                                     <img className='w-full' src={imgs.url} alt="" />
                                     <h1 className='mt-5'>{imgs.title}</h1>
                                     </div>
-                                </div>
+                                </motion.div>
                                 )
                         }
                        
                         <div className='flex flex-col justify-between pb-7 lg:w-[170px] gap-2'>
                             {data.links.map((data, index)=>
-                                <p key={index}>{data}</p>
+                                <motion.p initial={{x:20}} whileInView={{x:0}} transition={{duration:0.3, delay:index*0.1}} key={index}>{data}</motion.p>
                                 )}
                         </div>
                     </div>
