@@ -1,6 +1,15 @@
+import { useEffect, useState } from 'react';
 import articles from '../../../public/articles.json'
 const Blog = ({blogTitle}) => {
-        const selectedBlog = articles?.find(article=> article?.title == blogTitle )
+        const [selectedBlog, setSelectedBlog] = useState(articles[0])
+
+        useEffect(()=>{
+            setSelectedBlog(articles[0])
+            {blogTitle &&
+                setSelectedBlog(articles?.find(article=> article?.title == blogTitle ))
+                
+            }
+        },[blogTitle])
         
     
     return (

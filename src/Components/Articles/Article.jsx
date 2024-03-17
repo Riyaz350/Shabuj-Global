@@ -19,10 +19,9 @@ const Article = () => {
             <div className="lg:grid lg:grid-cols-7 flex flex-col justify-center gap-10 lg:gap-0  my-10 lg:my-20 ">
                 {/* Content */}
                 <div id='blog' className='col-span-5'>
-                {
-                    blogTitle &&
+                
                     <Blog   blogTitle={blogTitle}/>
-                }
+                
                 </div>
 
                  
